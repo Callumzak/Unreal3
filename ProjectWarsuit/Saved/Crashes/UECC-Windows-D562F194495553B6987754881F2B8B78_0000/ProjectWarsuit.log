@@ -1,0 +1,1858 @@
+Stats thread started at 0.418699
+Metadata set : systemresolution.resx="1280"
+Metadata set : systemresolution.resy="720"
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D562F194495553B6987754881F2B8B78
+         Session CrashGUID >====================================================
+No local boot hotfix file found at: [../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+Loading IOS ini files took 0.03 seconds
+Loading Mac ini files took 0.03 seconds
+Loading VulkanPC ini files took 0.04 seconds
+Loading Android ini files took 0.04 seconds
+Loading Unix ini files took 0.04 seconds
+Loading VisionOS ini files took 0.04 seconds
+Loading Windows ini files took 0.04 seconds
+Loading TVOS ini files took 0.04 seconds
+Loading Linux ini files took 0.04 seconds
+Loading LinuxArm64 ini files took 0.05 seconds
+Pre-Initializing Audio Device Manager...
+AudioInfo: 'OPUS' Registered
+Lib vorbis DLL was dynamically loaded.
+AudioInfo: 'OGG' Registered
+AudioInfo: 'ADPCM' Registered
+AudioInfo: 'PCM' Registered
+AudioInfo: 'BINKA' Registered
+AudioInfo: 'RADA' Registered
+Audio Device Manager Pre-Initialized
+Looking for build plugins target receipt
+Unable to find target receipt in path: ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Binaries/Win64/*.target
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Looking for enabled plugins target receipt
+Unable to find target receipt in path: ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Binaries/Win64/*.target
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin ChaosInsights
+Mounting Engine plugin ChaosVD
+Mounting Engine plugin CmdLinkServer
+Mounting Engine plugin EnhancedInput
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin Fab
+Mounting Engine plugin IoStoreInsights
+Mounting Engine plugin MassInsights
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin RenderGraphInsights
+Mounting Engine plugin TraceUtilities
+Mounting Engine plugin UbaController
+Mounting Engine plugin WorldMetrics
+Mounting Engine plugin XGEController
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin NNEDenoiser
+Mounting Engine plugin NNERuntimeORT
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin InterchangeTests
+Mounting Engine plugin CameraCalibrationCore
+Mounting Engine plugin Takes
+Mounting Engine plugin Paper2D
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin AISupport
+Mounting Engine plugin ACLPlugin
+Mounting Engine plugin AnimationData
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin ControlRig
+Mounting Engine plugin ControlRigModules
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin DeformerGraph
+Mounting Engine plugin GameplayInsights
+Mounting Engine plugin IKRig
+Mounting Engine plugin RigLogic
+Mounting Engine plugin SkeletalMeshModelingTools
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin EngineCameras
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin TweeningUtils
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin DumpGPUServices
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin N10XSourceCodeAccess
+Mounting Engine plugin NamingTokens
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin ProjectLauncher
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin RenderDocPlugin
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin BlueprintHeaderView
+Mounting Engine plugin ChangelistReview
+Mounting Engine plugin ColorGrading
+Mounting Engine plugin DataValidation
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin EngineAssetDefinitions
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin StylusInput
+Mounting Engine plugin UMGWidgetPreview
+Mounting Engine plugin UVEditor
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin GLTFExporter
+Mounting Engine plugin VariantManager
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin AdvancedRenamer
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin BackChannel
+Mounting Engine plugin ChaosCaching
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin ChaosUserDataPT
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin Dataflow
+Mounting Engine plugin EditorDataStorage
+Mounting Engine plugin EditorDataStorageFeatures
+Mounting Engine plugin EditorTelemetry
+Mounting Engine plugin EditorPerformance
+Mounting Engine plugin Fracture
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin GeometryDataflow
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin LevelSequenceNavigatorBridge
+Mounting Engine plugin LowLevelNetTrace
+Mounting Engine plugin LocalizableMessage
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin NFORDenoise
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin RuntimeTelemetry
+Mounting Engine plugin SequenceNavigator
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin ToolPresets
+Mounting Engine plugin Cascade
+Mounting Engine plugin Niagara
+Mounting Engine plugin InterchangeAssets
+Mounting Engine plugin NiagaraSimCaching
+Mounting Engine plugin InterchangeEditor
+Mounting Engine plugin Interchange
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaPlate
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin MetaHumanSDK
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin EOSShared
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AssetTags
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin AudioWidgets
+Mounting Engine plugin CableComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin ComputeFramework
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin GameplayStateTree
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin HairStrands
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin InputDebugging
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin Metasound
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin MsQuic
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyBindingUtils
+Mounting Engine plugin RigVM
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin SoundFields
+Mounting Engine plugin StateTree
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin Synthesis
+Mounting Engine plugin WaveTable
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin CompositeCore
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin PortableObjectFileDataSource
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin BaseCharacterFXEditor
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin XInputDevice
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin LightMixer
+Mounting Engine plugin ObjectMixer
+Revision control is disabled
+Revision control is disabled
+Revision control is disabled
+Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+File 'WinPixGpuCapturer.dll' does not exist
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+PlatformFileJournal journal has wrapped for volume 'C:'. AssetRegistry discovery of files on this volume will be uncached. Notes on wrapping:
+NTFS Journal has wrapped for volume 'C:'; the number of files written to this volume exceeded the buffer size of the journal and some entries were dropped.
+If this happens frequently increase the buffer size of the journal:
+Launch cmd.exe as admin and run command `fsutil usn createJournal C: m=<SizeInBytes>`
+<SizeInBytes> defaults to 33554432 (32MB), Recommended <SizeInBytes> is 0x40000000 (1GB). You can see the current value via `fsutil usn queryJournal C:`, 'Maximum Size' field.
+Started StudioTelemetry Session
+NFORDenoise function starting up
+Loaded "C:/Program Files/Epic Games/5.6/Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll"
+FEOSSDKManager::Initialize Initializing EOSSDK Version:1.17.0-41373641
+Using libcurl 8.12.1
+ - built for Windows
+ - supports SSL with OpenSSL/1.1.1t
+ - supports HTTP deflate (compression) using libz 1.3
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_TLSAUTH_SRP
+     CURL_VERSION_HTTP2
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+CreateHttpThread using FCurlMultiPollEventLoopHttpThread
+Creating http thread with maximum 256 concurrent requests
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+Applying CVar settings from Section [/Script/CompositeCore.CompositeCorePluginSettings] File [Engine]
+ExecutableName: UnrealEditor.exe
+Build: ++UE5+Release-5.6-CL-44394996
+Platform=WindowsEditor
+MachineId=c19aea774041762dd994f7bcaad469d0
+DeviceId=
+Engine Version: 5.6.1-44394996+++UE5+Release-5.6
+Compatible Engine Version: 5.6.0-43139311+++UE5+Release-5.6
+Net CL: 43139311
+OS: Windows 11 (24H2) [10.0.26100.7840] (), CPU: Intel(R) Core(TM) i9-14900KS, GPU: NVIDIA GeForce RTX 4090
+Compiled (64-bit): Jul 28 2025 20:53:34
+Architecture: x64
+Compiled with Visual C++: 19.38.33130.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.6
+Command Line: 
+Base Directory: C:/Program Files/Epic Games/5.6/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+Number of dev versions registered: 37
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 207
+  FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+  FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 17
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 11
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 121
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 56
+  UE5-SpecialProject (59DA5D52-1232-4948-B878-597870B8E98B): 9
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+  LensFileVersion (8652A554-966A-466C-9FD7-1C6DD61B1ADB): 1
+  Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+Presizing for max 25165824 objects, including 0 objects not considered by GC.
+Object subsystem initialized
+Set CVar [[con.DebugEarlyDefault:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+Set CVar [[r.setres:1280x720]]
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
+Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
+CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
+CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
+Set CVar [[r.PSOPrecache.GlobalShaders:1]]
+Set CVar [[r.VRS.EnableSoftware:1]]
+Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+Set CVar [[r.VSync:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+Set CVar [[r.GPUCrashDebugging:0]]
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+Set CVar [[r.ReflectionMethod:1]]
+Set CVar [[r.GenerateMeshDistanceFields:1]]
+Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+Set CVar [[r.Lumen.TraceMeshSDFs:0]]
+Set CVar [[r.Shadow.Virtual.Enable:1]]
+Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Set CVar [[r.AllowStaticLighting:0]]
+Set CVar [[r.SkinCache.CompileShaders:1]]
+Set CVar [[r.RayTracing:1]]
+Set CVar [[r.RayTracing.RayTracingProxies.ProjectEnabled:1]]
+Set CVar [[r.DefaultFeature.LocalExposure.HighlightContrastScale:0.8]]
+Set CVar [[r.DefaultFeature.LocalExposure.ShadowContrastScale:0.8]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+Set CVar [[s.EventDrivenLoaderEnabled:1]]
+Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+Set CVar [[s.UseBackgroundLevelStreaming:1]]
+Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+Set CVar [[s.FlushStreamingOnExit:1]]
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Set CVar [[gc.FlushStreamingOnGC:0]]
+Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Set CVar [[gc.AllowParallelGC:1]]
+Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Set CVar [[gc.MaxObjectsInEditor:25165824]]
+Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Set CVar [[gc.CreateGCClusters:1]]
+Set CVar [[gc.MinGCClusterSize:5]]
+Set CVar [[gc.AssetClustreringEnabled:0]]
+Set CVar [[gc.ActorClusteringEnabled:0]]
+Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+Set CVar [[gc.GarbageEliminationEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultASTCQualityBySpeed:2]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySizeHQ:4]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:AmbientSound]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Mobile.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Metadata set : systemresolution.resx="2048"
+Metadata set : systemresolution.resy="1152"
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Set CVar [[r.SkeletalMeshLODBias:0]]
+Set CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Set CVar [[r.FXAA.Quality:4]]
+Set CVar [[r.TemporalAA.Quality:2]]
+Set CVar [[r.TSR.History.R11G11B10:1]]
+Set CVar [[r.TSR.History.ScreenPercentage:200]]
+Set CVar [[r.TSR.History.UpdateQuality:3]]
+Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+Set CVar [[r.TSR.ReprojectionField:1]]
+Set CVar [[r.TSR.Resurrection:1]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Set CVar [[r.LightFunctionQuality:1]]
+Set CVar [[r.ShadowQuality:5]]
+Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+Set CVar [[r.Shadow.MaxResolution:2048]]
+Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+Set CVar [[r.Shadow.DistanceScale:1.0]]
+Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Set CVar [[r.DistanceFieldShadowing:1]]
+Set CVar [[r.VolumetricFog:1]]
+Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Set CVar [[r.LightMaxDrawDistanceScale:1]]
+Set CVar [[r.CapsuleShadows:1]]
+Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Set CVar [[r.DistanceFieldAO:1]]
+Set CVar [[r.SkylightIntensityMultiplier:1.0]]
+Set CVar [[r.AOQuality:2]]
+Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Set CVar [[r.LumenScene.DirectLighting.MaxLightsPerTile:8]]
+Set CVar [[r.LumenScene.DirectLighting.UpdateFactor:32]]
+Set CVar [[r.LumenScene.Radiosity.UpdateFactor:64]]
+Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:100]]
+Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:8]]
+Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HardwareRayTracing:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.BentNormal:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:70]]
+Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Set CVar [[r.SSR.Quality:3]]
+Set CVar [[r.SSR.HalfResSceneColor:0]]
+Set CVar [[r.Lumen.Reflections.Allow:1]]
+Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.8]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.NumSamples:5]]
+Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:0]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Set CVar [[r.MotionBlurQuality:4]]
+Set CVar [[r.MotionBlur.HalfResGather:0]]
+Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+Set CVar [[r.AmbientOcclusionLevels:-1]]
+Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Set CVar [[r.DepthOfFieldQuality:2]]
+Set CVar [[r.RenderTargetPoolMin:400]]
+Set CVar [[r.LensFlareQuality:2]]
+Set CVar [[r.SceneColorFringeQuality:1]]
+Set CVar [[r.EyeAdaptationQuality:2]]
+Set CVar [[r.BloomQuality:5]]
+Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+Set CVar [[r.FastBlurThreshold:100]]
+Set CVar [[r.Upscale.Quality:3]]
+Set CVar [[r.LightShaftQuality:1]]
+Set CVar [[r.Filter.SizeScale:1]]
+Set CVar [[r.Tonemapper.Quality:5]]
+Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Set CVar [[r.Streaming.MipBias:0]]
+Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Set CVar [[r.Streaming.Boost:1]]
+Set CVar [[r.MaxAnisotropy:8]]
+Set CVar [[r.VT.MaxAnisotropy:8]]
+Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Set CVar [[r.Streaming.PoolSize:1000]]
+Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+Set CVar [[r.RefractionQuality:2]]
+Set CVar [[r.SceneColorFormat:4]]
+Set CVar [[r.DetailMode:3]]
+Set CVar [[r.TranslucencyVolumeBlur:1]]
+Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Set CVar [[r.SSS.Scale:1]]
+Set CVar [[r.SSS.SampleSet:2]]
+Set CVar [[r.SSS.Quality:1]]
+Set CVar [[r.SSS.HalfRes:0]]
+Set CVar [[r.SSGI.Quality:3]]
+Set CVar [[r.EmitterSpawnRateScale:1.0]]
+Set CVar [[r.ParticleLightQuality:2]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Set CVar [[fx.Niagara.QualityLevel:3]]
+Set CVar [[r.Refraction.OffsetQuality:1]]
+Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+Set CVar [[r.HeterogeneousVolumes.MaxStepCount:256]]
+Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+Set CVar [[r.HeterogeneousVolumes.Shadows.MaxSampleCount:8]]
+Set CVar [[r.HeterogeneousVolumes.UseExistenceMask:0]]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Set CVar [[foliage.DensityScale:1.0]]
+Set CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Set CVar [[r.AnisotropicMaterials:1]]
+Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+Using Default RHI: D3D12
+Using Highest Feature Level of D3D12: SM6
+Loading RHI module D3D12RHI
+Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+Found D3D12 adapter 0: NVIDIA GeForce RTX 4090 (VendorId: 10de, DeviceId: 2684, SubSysId: 88e61043, Revision: 00a1
+  Max supported Feature Level 12_2, shader model 6.7, binding tier 3, wave ops supported, atomic64 supported
+  Adapter has 24142MB of dedicated video memory, 0MB of dedicated system memory, and 65394MB of shared system memory, 2 output[s], UMA:false
+  Driver Version: 576.52 (internal:32.0.15.7652, unified:576.52)
+     Driver Date: 5-14-2025
+Found D3D12 adapter 1: Microsoft Basic Render Driver (VendorId: 1414, DeviceId: 008c, SubSysId: 0000, Revision: 0000
+  Max supported Feature Level 12_1, shader model 6.7, binding tier 3, wave ops supported, atomic64 supported
+  Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 65394MB of shared system memory, 0 output[s], UMA:true
+DirectX Agility SDK runtime found.
+Chosen D3D12 Adapter Id = 0
+RHI D3D12 with Feature Level SM6 is supported and will be used.
+Selected Device Profile: [WindowsEditor]
+Platform has ~ 128 GB [137142304768 / 137438953472 / 128], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Pushing Device Profile CVar: [[UI.SlateSDFText.RasterizationMode:Bitmap -> Msdf]]
+Pushing Device Profile CVar: [[UI.SlateSDFText.ResolutionLevel:2 -> 2]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Set CVar [[r.DumpShaderDebugInfo:2]]
+Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Saved/Config/WindowsEditor/Editor.ini]
+Computer: BW-DRPGAMED-15
+User: 455377
+CPU Page size=4096, Cores=24
+High frequency timer resolution =10.000000 MHz
+Process is running as part of a Windows Job with separate resource limits
+Memory total: Physical=127.7GB (128GB approx) Virtual=146.7GB
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 602.52 MB used, 623.75 MB peak
+Process Virtual Memory: 648.00 MB used, 650.71 MB peak
+Physical Memory: 12627.53 MB used,  118161.56 MB free, 130789.09 MB total
+Virtual Memory: 15371.49 MB used,  134873.61 MB free, 150245.09 MB total
+Metadata set : extradevelopmentmemorymb="0"
+WindowsPlatformFeatures enabled
+Chaos Debug Draw Startup
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-GB).
+Using OS detected locale (en-GB).
+No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+Setting process to per monitor DPI aware
+Available input methods:
+  - English (United Kingdom) - (Keyboard).
+  - English (United Kingdom) - Touch Input Correction (TSF IME).
+Activated input method: English (United Kingdom) - (Keyboard).
+CacheForceMaxTouchpadSensitivityMode SetMaxTouchpadSensitivity
+Attempting to load config data for Default__SlateThemeManager before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Using Default RHI: D3D12
+Using Highest Feature Level of D3D12: SM6
+Loading RHI module D3D12RHI
+Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+RHI D3D12 with Feature Level SM6 is supported and will be used.
+Integrated GPU (iGPU): false
+Creating D3D12 RHI with Max Feature Level SM6
+Attached monitors:
+    resolution: 2560x1440, work area: (0, 0) -> (2560, 1380), device: '\\.\DISPLAY1' [PRIMARY]
+    resolution: 2560x1440, work area: (-2560, 0) -> (0, 1380), device: '\\.\DISPLAY2'
+Found 2 attached monitors.
+Gathering driver information using Windows Setup API
+RHI Adapter Info:
+            Name: NVIDIA GeForce RTX 4090
+  Driver Version: 576.52 (internal:32.0.15.7652, unified:576.52)
+     Driver Date: 5-14-2025
+    GPU DeviceId: 0x2684 (for the marketing name, search the web for "GPU Device Id")
+InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+Aftermath initialized
+Emitting draw events for PIX profiling.
+Aftermath enabled. Active feature flags: 
+ - Feature: EnableResourceTracking
+ID3D12Device1 is supported.
+ID3D12Device2 is supported.
+ID3D12Device3 is supported.
+ID3D12Device4 is supported.
+ID3D12Device5 is supported.
+ID3D12Device6 is supported.
+ID3D12Device7 is supported.
+ID3D12Device8 is supported.
+ID3D12Device9 is supported.
+ID3D12Device10 is supported.
+ID3D12Device11 is supported.
+ID3D12Device12 is supported.
+Bindless resources are supported
+Stencil ref from pixel shader is not supported
+Raster order views are supported
+Wave Operations are supported (wave size: min=32 max=32).
+D3D12 ray tracing tier 1.1 and bindless resources are supported.
+Mesh shader tier 1.0 is supported
+AtomicInt64OnTypedResource is supported
+AtomicInt64OnGroupShared is supported
+AtomicInt64OnDescriptorHeapResource is supported
+Shader Model 6.6 atomic64 is supported
+Work Graphs are supported
+[GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x0000021251AECAC0)
+[GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x0000021251AECD80)
+[GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x0000021251AED040)
+Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+NVIDIA Shader Execution Reordering interface supported!
+Batched command list execution is disabled for async queues due to known bugs in the current driver.
+Texture pool is 14725 MB (70% of 21036 MB)
+Async texture creation enabled
+RHI has support for 64 bit atomics
+Current RHI supports per-draw and screenspace Variable Rate Shading
+Metadata set : verbatimrhiname="D3D12"
+Metadata set : rhiname="D3D12"
+Metadata set : rhifeaturelevel="SM6"
+Metadata set : shaderplatform="PCD3D_SM6"
+Initializing FReadOnlyCVARCache
+Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyReport_0.log" -log="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyLog_0.log" -project="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject"  -platform=all'
+Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/5.6/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyReport_0.log" -log="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyLog_0.log" -project="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject"  -platform=all" ]
+ASTCEnc version 5.0.1 library loaded
+Loaded Base TextureFormat: TextureFormatASTC
+Loaded Base TextureFormat: TextureFormatDXT
+Loaded Base TextureFormat: TextureFormatETC2
+Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+Loaded Base TextureFormat: TextureFormatUncompressed
+Oodle Texture TFO init; latest sdk version = 2.9.13
+Oodle Texture loading DLL: oo2tex_win64_2.9.13.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded Base TextureFormat: TextureFormatOodle
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'Android_OpenXR'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_OpenXRClient'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacEditor'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Unable to find shader format SF_METAL_ES3_1_IOS from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL_ES3_1_IOS
+  SF_METAL_SM5_IOS
+  SF_METAL_ES3_1_TVOS
+  SF_METAL_SM5_TVOS
+  SF_METAL_SM5
+  SF_METAL_SM6
+  SF_METAL_SIM
+  SF_METAL_ES3_1
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+  SF_VULKAN_SM6
+Ray tracing is enabled (dynamic). Reason: r.RayTracing=1 and r.RayTracing.EnableOnDemand=1.
+Ray tracing shaders are enabled.
+Memory: Max Cache Size: -1 MB
+FDerivedDataBackendGraph: Pak pak cache file ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1350 MiB)
+FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Found Zen config default=C:/Users/455377/AppData/Local/UnrealEngine/Common/Zen/Data
+InTree version at 'C:/Program Files/Epic Games/5.6/Engine/Binaries/Win64/zenserver.exe' is '5.6.6-202504241958-windows-x64-release-f090a03'
+Installed version at 'C:/Users/455377/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.6.6-202504241958-windows-x64-release-f090a03'
+Found existing instance running on port 8558 matching our settings, no actions needed
+Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+Local ZenServer AutoLaunch initialization completed in 0.103 seconds
+ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+C:/Users/455377/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.00 seconds.
+C:/Users/455377/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.01ms. RandomReadSpeed=2684.63MBs, RandomWriteSpeed=215.51MBs. Assigned SpeedClass 'Local'
+Local: Using data cache path C:/Users/455377/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+ZenShared: Disabled because Host is set to 'None'
+Unable to find inner node ZenShared for hierarchy Hierarchy.
+Shared: Disabled because no path is configured.
+Unable to find inner node Shared for hierarchy Hierarchy.
+Cloud: Disabled because Host is set to 'None'
+Unable to find inner node Cloud for hierarchy Hierarchy.
+Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/Shaders/WorkingDirectory/21432/).
+Cleaned the shader compiler working directory 'C:/Users/455377/AppData/Local/Temp/UnrealShaderWorkingDir/7E5F0CD24D70D29C385D71A3BE2D5A74/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+Using 16 local workers for shader compilation
+Compiling shader autogen file: ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+Completed SDK detection: ExitCode = 0
+Autogen file is unchanged, skipping write.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png]
+Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+Could not load file for Slate resource: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png] file: [../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png]
+FAssetRegistry took 0.0018 seconds to start up
+EditorDomain is Disabled
+Deviceprofile LinuxArm64Editor not found.
+Deviceprofile LinuxArm64 not found.
+Active device profile: [00000212A64B9100][00000212A6772800 66] WindowsEditor
+Metadata set : deviceprofile="WindowsEditor"
+FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+SCW 1 Queued Jobs, Finished 1 single jobs
+Job 0 [Single] Failed: Global/FRayTracingSkyLightRGS/1:/Engine/Private/Raytracing/RaytracingSkylightRGS.usf|SkyLightRGS Type 'FRayTracingSkyLightRGS' '/Engine/Private/Raytracing/RaytracingSkylightRGS.usf' Entry 'SkyLightRGS' Permutation 1 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+Asset registry cache read as 69.5 MiB from ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/CachedAssetRegistry_0.bin.
+AssetDataGatherer spent 21.553s loading caches ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/CachedAssetRegistry_*.bin.
+Texture Encode Speed: FinalIfAvailable (editor).
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Shared linear texture encoding: Disabled
+Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.26100.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+Running Turnkey device detection: ' -ScriptsForProject="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyReport_1.log" -log="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyLog_1.log" -project="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject"  -Device=Win64@BW-DRPGAMED-15'
+Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/5.6/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyReport_1.log" -log="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/TurnkeyLog_1.log" -project="C:/Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/ProjectWarsuit.uproject"  -Device=Win64@BW-DRPGAMED-15" -nocompile -nocompileuat ]
+Completed device detection: Code = 0
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness because of a recursive sync load
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec because of a recursive sync load
+Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_M because of a recursive sync load
+Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/T_Default_Material_Grid_N because of a recursive sync load
+Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade because of a recursive sync load
+Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDiffuse because of a recursive sync load
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components because of a recursive sync load
+Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
+Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+1 Shader compiler errors compiling global shaders for platform PCD3D_SM6:
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\Raytracing\RaytracingSkylightRGS.usf(0): Shader FRayTracingSkyLightRGS, Permutation 1, VF None:
+	Exception encountered in platform compiler: Exception code: 0x00000001, address=0x00007ffaf16aa80a
+
+Exception Callstack:
+0x00007ffaf16aa80a KERNELBASE.dll!UnknownFunction []
+0x00007ffa076f899e ShaderCompileWorker-ShaderFormatD3D.dll!DXCCompileWrapper() []
+0x00007ffa076f823e ShaderCompileWorker-ShaderFormatD3D.dll!D3DCompileToDxil() []
+0x00007ffa076f062a ShaderCompileWorker-ShaderFormatD3D.dll!CompileAndProcessD3DShaderDXC() []
+0x00007ffa076f6c96 ShaderCompileWorker-ShaderFormatD3D.dll!CompileD3DShader() []
+0x00007ffa02fe5691 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::InvokeCompile() []
+0x00007ffa02fcfec4 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::CompileShaderInternal() []
+0x00007ffa02fcfb5f ShaderCompileWorker-RenderCore.dll!CompileShader() []
+0x00007ff79f45fd95 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff79f45b018 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff79f458053 ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff79f4582f8 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff79f464aeb ShaderCompileWorker.exe!wmain() []
+0x00007ff79f465f6c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+0 Shader compiler errors compiling global shaders for platform :
+Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 7ef87bf41f5b734b0a2daf4d55206e713847372d), compiling. 
+Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultLightFunctionMaterial because of a recursive sync load
+Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 03a4d08dc44481c5014dce095ef8e67f9422568e), compiling. 
+Package /Engine/EngineMaterials/WorldGridMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDeferredDecalMaterial because of a recursive sync load
+Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 87d9833c45575453fc06cb603a1b86b1a5d4a27c), compiling. 
+Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
+Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a94d1fc251a5896ecff4a95495a85e00d698f942), compiling. Is special engine material.
+SCW 5 Queued Jobs, Finished 5 single jobs
+Job 0 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FGPUSpriteVertexFactory/FDebugViewModeVS/0:/Engine/Private/DebugViewModeVertexShader.usf|Main VF 'FGPUSpriteVertexFactory' Type 'FDebugViewModeVS' '/Engine/Private/DebugViewModeVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FGPUSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FGPUSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2: Pipeline DepthNoPixelPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/DepthNoPixelPipeline/FGPUSpriteVertexFactory/TDepthOnlyVS<false>/0:/Engine/Private/DepthOnlyVertexShader.usf|Main VF 'FGPUSpriteVertexFactory' Type 'TDepthOnlyVS<false>' '/Engine/Private/DepthOnlyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FGPUSpriteVertexFactory/TBasePassPSFNoLightMapPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FGPUSpriteVertexFactory' Type 'TBasePassPSFNoLightMapPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraRibbonVertexFactory/FRayTracingDynamicGeometryConverterCS/0:/Engine/Private/RayTracing/RayTracingDynamicMesh.usf|RayTracingDynamicGeometryConverterCS VF 'FNiagaraRibbonVertexFactory' Type 'FRayTracingDynamicGeometryConverterCS' '/Engine/Private/RayTracing/RayTracingDynamicMesh.usf' Entry 'RayTracingDynamicGeometryConverterCS' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 5 Queued Jobs, Finished 5 single jobs
+Job 0 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FParticleSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleSpriteVertexFactory/TBasePassPSFNoLightMapPolicy/1:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FParticleSpriteVertexFactory' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 1 
+Job 2: Pipeline VelocityPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FHairStrandsVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'FHairStrandsVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+PipelineJob 1 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FHairStrandsVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'FHairStrandsVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FParticleSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FParticleSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 5 Queued Jobs, Finished 5 single jobs
+Job 0: Pipeline DepthNoPixelPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/DepthNoPixelPipeline/FHairStrandsVertexFactory/TDepthOnlyVS<false>/0:/Engine/Private/DepthOnlyVertexShader.usf|Main VF 'FHairStrandsVertexFactory' Type 'TDepthOnlyVS<false>' '/Engine/Private/DepthOnlyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleSpriteVertexFactory/FHitProxyVS/0:/Engine/Private/HitProxyVertexShader.usf|Main VF 'FParticleSpriteVertexFactory' Type 'FHitProxyVS' '/Engine/Private/HitProxyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FHairStrandsVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FHairStrandsVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FParticleSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FHairStrandsVertexFactory/TMaterialCHS_IS_FNoLightMapPolicy/0:/Engine/Private/RayTracing/RayTracingMaterialHitShaders.usf|closesthit=MaterialCHS intersection=MaterialIS VF 'FHairStrandsVertexFactory' Type 'TMaterialCHS_IS_FNoLightMapPolicy' '/Engine/Private/RayTracing/RayTracingMaterialHitShaders.usf' Entry 'closesthit=MaterialCHS intersection=MaterialIS' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 5 Queued Jobs, Finished 5 single jobs
+Job 0: Pipeline DepthNoPixelPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/DepthNoPixelPipeline/FNiagaraRibbonVertexFactory/TDepthOnlyVS<false>/0:/Engine/Private/DepthOnlyVertexShader.usf|Main VF 'FNiagaraRibbonVertexFactory' Type 'TDepthOnlyVS<false>' '/Engine/Private/DepthOnlyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraRibbonVertexFactory/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FNiagaraRibbonVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraRibbonVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FNiagaraRibbonVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraRibbonVertexFactory/FPathTracingMaterialCHS/0:/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf|closesthit=PathTracingMaterialCHS VF 'FNiagaraRibbonVertexFactory' Type 'FPathTracingMaterialCHS' '/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf' Entry 'closesthit=PathTracingMaterialCHS' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/TGPUSkinAPEXClothVertexFactoryDefault/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'TGPUSkinAPEXClothVertexFactoryDefault' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 10 Queued Jobs, Finished 12 single jobs
+Job 0 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/TGPUSkinVertexFactoryUnlimited/TBasePassPSFNoLightMapPolicySkylight/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'TGPUSkinVertexFactoryUnlimited' Type 'TBasePassPSFNoLightMapPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/TGPUSkinVertexFactoryUnlimited/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'TGPUSkinVertexFactoryUnlimited' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2: Pipeline VelocityPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FParticleSpriteVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'FParticleSpriteVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+PipelineJob 1 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FParticleSpriteVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'FParticleSpriteVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/TGPUSkinVertexFactoryUnlimited/FDebugViewModeVS/0:/Engine/Private/DebugViewModeVertexShader.usf|Main VF 'TGPUSkinVertexFactoryUnlimited' Type 'FDebugViewModeVS' '/Engine/Private/DebugViewModeVertexShader.usf' Entry 'Main' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/TGPUSkinVertexFactoryUnlimited/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'TGPUSkinVertexFactoryUnlimited' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 5 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FVectorFieldVisualizationVertexFactory/FHitProxyVS/0:/Engine/Private/HitProxyVertexShader.usf|Main VF 'FVectorFieldVisualizationVertexFactory' Type 'FHitProxyVS' '/Engine/Private/HitProxyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 6 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FVectorFieldVisualizationVertexFactory/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FVectorFieldVisualizationVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 7: Pipeline VelocityPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/TGPUSkinVertexFactoryUnlimited/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'TGPUSkinVertexFactoryUnlimited' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+PipelineJob 1 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/TGPUSkinVertexFactoryUnlimited/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'TGPUSkinVertexFactoryUnlimited' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+Job 8 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FVectorFieldVisualizationVertexFactory/TShadowDepthVSVertexShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FVectorFieldVisualizationVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 9 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FVectorFieldVisualizationVertexFactory/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FVectorFieldVisualizationVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 10 Queued Jobs, Finished 11 single jobs
+Job 0: Pipeline VelocityPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FVectorFieldVisualizationVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'FVectorFieldVisualizationVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+PipelineJob 1 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FVectorFieldVisualizationVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'FVectorFieldVisualizationVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraMeshVertexFactory/TShadowDepthVSVertexShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FNiagaraMeshVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraMeshVertexFactory/TBasePassPSFNoLightMapPolicySkylight/1:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FNiagaraMeshVertexFactory' Type 'TBasePassPSFNoLightMapPolicySkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 1 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraMeshVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FNiagaraMeshVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 4: Pipeline DepthNoPixelPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/DepthNoPixelPipeline/FNiagaraMeshVertexFactory/TDepthOnlyVS<false>/0:/Engine/Private/DepthOnlyVertexShader.usf|Main VF 'FNiagaraMeshVertexFactory' Type 'TDepthOnlyVS<false>' '/Engine/Private/DepthOnlyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 5 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraMeshVertexFactory/FPathTracingMaterialCHS/0:/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf|closesthit=PathTracingMaterialCHS VF 'FNiagaraMeshVertexFactory' Type 'FPathTracingMaterialCHS' '/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf' Entry 'closesthit=PathTracingMaterialCHS' Permutation 0 
+Job 6 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraMeshVertexFactory/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FNiagaraMeshVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 7 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraMeshVertexFactory/FDebugViewModeVS/0:/Engine/Private/DebugViewModeVertexShader.usf|Main VF 'FNiagaraMeshVertexFactory' Type 'FDebugViewModeVS' '/Engine/Private/DebugViewModeVertexShader.usf' Entry 'Main' Permutation 0 
+Job 8 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleBeamTrailVertexFactory/FHitProxyVS/0:/Engine/Private/HitProxyVertexShader.usf|Main VF 'FParticleBeamTrailVertexFactory' Type 'FHitProxyVS' '/Engine/Private/HitProxyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 9 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FParticleBeamTrailVertexFactory/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FParticleBeamTrailVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 6 Queued Jobs, Finished 6 single jobs
+Job 0 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FHairCardsVertexFactory/FHitProxyVS/0:/Engine/Private/HitProxyVertexShader.usf|Main VF 'FHairCardsVertexFactory' Type 'FHitProxyVS' '/Engine/Private/HitProxyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1: Pipeline DepthNoPixelPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/DepthNoPixelPipeline/FSplineMeshVertexFactory/TDepthOnlyVS<false>/0:/Engine/Private/DepthOnlyVertexShader.usf|Main VF 'FSplineMeshVertexFactory' Type 'TDepthOnlyVS<false>' '/Engine/Private/DepthOnlyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FSplineMeshVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FSplineMeshVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 3 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FHairCardsVertexFactory/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FHairCardsVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FHairCardsVertexFactory/TBasePassPSFNoLightMapPolicy/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FHairCardsVertexFactory' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+Job 5 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FHairCardsVertexFactory/TShadowDepthVSVertexShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FHairCardsVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+SCW 3 Queued Jobs, Finished 3 single jobs
+Job 0 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraSpriteVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FNiagaraSpriteVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FNiagaraSpriteVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FNiagaraSpriteVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FGeometryCacheVertexVertexFactory/FHitProxyVS/0:/Engine/Private/HitProxyVertexShader.usf|Main VF 'FGeometryCacheVertexVertexFactory' Type 'FHitProxyVS' '/Engine/Private/HitProxyVertexShader.usf' Entry 'Main' Permutation 0 
+ShaderCompileWorker failed
+Crash inside the platform compiler:
+
+
+ShaderCompileWorker terminated unexpectedly, return code -1073740791! Falling back to directly compiling which will be very slow.  Thread 12.
+SCW 10 Queued Jobs, Unknown number of processed jobs!
+Job 0 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/FHitProxyVS/0:/Engine/Private/HitProxyVertexShader.usf|Main VF 'FLandscapeXYOffsetVertexFactory' Type 'FHitProxyVS' '/Engine/Private/HitProxyVertexShader.usf' Entry 'Main' Permutation 0 
+Job 1 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FGeometryCollectionVertexFactory/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf|Main VF 'FGeometryCollectionVertexFactory' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 2 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/TShadowDepthVSVertexShadowDepth_OutputDepth/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FLandscapeXYOffsetVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OutputDepth' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 3: Pipeline VelocityPipeline 
+PipelineJob 0 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FGeometryCollectionVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'FGeometryCollectionVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+PipelineJob 1 Failed: WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FGeometryCollectionVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'FGeometryCollectionVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+Job 4 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/TShadowDepthVSVertexShadowDepth_PerspectiveCorrect/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FLandscapeXYOffsetVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_PerspectiveCorrect' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 5 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/TShadowDepthVSVertexShadowDepth_OnePassPointLight/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FLandscapeXYOffsetVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_OnePassPointLight' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 6 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/TMaterialCHSFNoLightMapPolicy/0:/Engine/Private/RayTracing/RayTracingMaterialHitShaders.usf|closesthit=MaterialCHS VF 'FLandscapeXYOffsetVertexFactory' Type 'TMaterialCHSFNoLightMapPolicy' '/Engine/Private/RayTracing/RayTracingMaterialHitShaders.usf' Entry 'closesthit=MaterialCHS' Permutation 0 
+Job 7 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/TBasePassPSFNoLightMapPolicy/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'FLandscapeXYOffsetVertexFactory' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+Job 8 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FLandscapeXYOffsetVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 9 [Single] Failed: WorldGridMaterial_b019937a1bd5f916/Default/FLandscapeXYOffsetVertexFactory/FPathTracingMaterialCHS/0:/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf|closesthit=PathTracingMaterialCHS VF 'FLandscapeXYOffsetVertexFactory' Type 'FPathTracingMaterialCHS' '/Engine/Private/PathTracing/PathTracingMaterialHitShader.usf' Entry 'closesthit=PathTracingMaterialCHS' Permutation 0 
+Retry shader compiling through workers.
+10 Shader compiler errors compiling WorldGridMaterial for platform PCD3D_SM6:
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\RayTracing\RayTracingDynamicMesh.usf(0): Shader FRayTracingDynamicGeometryConverterCS, Permutation 0, VF FNiagaraRibbonVertexFactory:
+	Exception encountered in platform compiler: Exception code: 0x00000001, address=0x00007ffaf16aa80a
+
+Exception Callstack:
+0x00007ffaf16aa80a KERNELBASE.dll!UnknownFunction []
+0x00007ffa076f899e ShaderCompileWorker-ShaderFormatD3D.dll!DXCCompileWrapper() []
+0x00007ffa076f823e ShaderCompileWorker-ShaderFormatD3D.dll!D3DCompileToDxil() []
+0x00007ffa076f062a ShaderCompileWorker-ShaderFormatD3D.dll!CompileAndProcessD3DShaderDXC() []
+0x00007ffa076f6c96 ShaderCompileWorker-ShaderFormatD3D.dll!CompileD3DShader() []
+0x00007ffa02fe5691 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::InvokeCompile() []
+0x00007ffa02fcfec4 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::CompileShaderInternal() []
+0x00007ffa02fcfb5f ShaderCompileWorker-RenderCore.dll!CompileShader() []
+0x00007ff79f45fd95 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff79f45b018 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff79f458053 ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff79f4582f8 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff79f464aeb ShaderCompileWorker.exe!wmain() []
+0x00007ff79f465f6c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\VelocityShader.usf(0): Shader FVelocityPS, Permutation 0, VF FHairStrandsVertexFactory:
+	Exception encountered in platform compiler: Exception code: 0x00000001, address=0x00007ffaf16aa80a
+
+Exception Callstack:
+0x00007ffaf16aa80a KERNELBASE.dll!UnknownFunction []
+0x00007ffa076f899e ShaderCompileWorker-ShaderFormatD3D.dll!DXCCompileWrapper() []
+0x00007ffa076f823e ShaderCompileWorker-ShaderFormatD3D.dll!D3DCompileToDxil() []
+0x00007ffa076f062a ShaderCompileWorker-ShaderFormatD3D.dll!CompileAndProcessD3DShaderDXC() []
+0x00007ffa076e9363 ShaderCompileWorker-ShaderFormatD3D.dll!RemoveUnusedInterpolators<1,std::function<bool __cdecl(FShaderCompilerInput const & __ptr64,FString const & __ptr64,FString const & __ptr64,FShaderParameterParser const & __ptr64,wchar_t const * __ptr64,enum ED3DShaderModel,bool,FShaderCompilerOutput & __ptr64)>,ID3D12ShaderReflection,_D3D12_SHADER_DESC,_D3D12_SIGNATURE_PARAMETER_DESC>() []
+0x00007ffa076f0db6 ShaderCompileWorker-ShaderFormatD3D.dll!CompileAndProcessD3DShaderDXC() []
+0x00007ffa076f6c96 ShaderCompileWorker-ShaderFormatD3D.dll!CompileD3DShader() []
+0x00007ffa02fe5691 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::InvokeCompile() []
+0x00007ffa02fcfec4 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::CompileShaderInternal() []
+0x00007ffa02fcfb5f ShaderCompileWorker-RenderCore.dll!CompileShader() []
+0x00007ffa02fd035f ShaderCompileWorker-RenderCore.dll!CompileShaderPipeline() []
+0x00007ff79f460233 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff79f45b018 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff79f458053 ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff79f4582f8 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff79f464aeb ShaderCompileWorker.exe!wmain() []
+0x00007ff79f465f6c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+Internal Error!
+	WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FHairStrandsVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'FHairStrandsVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+
+Internal Error!
+	WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/TGPUSkinVertexFactoryUnlimited/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'TGPUSkinVertexFactoryUnlimited' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\VelocityShader.usf(0): Shader FVelocityVS, Permutation 0, VF TGPUSkinVertexFactoryUnlimited:
+	Exception encountered in platform compiler: Exception code: 0x00000001, address=0x00007ffaf16aa80a
+
+Exception Callstack:
+0x00007ffaf16aa80a KERNELBASE.dll!UnknownFunction []
+0x00007ffa076f899e ShaderCompileWorker-ShaderFormatD3D.dll!DXCCompileWrapper() []
+0x00007ffa076f823e ShaderCompileWorker-ShaderFormatD3D.dll!D3DCompileToDxil() []
+0x00007ffa076f062a ShaderCompileWorker-ShaderFormatD3D.dll!CompileAndProcessD3DShaderDXC() []
+0x00007ffa076f6c96 ShaderCompileWorker-ShaderFormatD3D.dll!CompileD3DShader() []
+0x00007ffa02fe5691 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::InvokeCompile() []
+0x00007ffa02fcfec4 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::CompileShaderInternal() []
+0x00007ffa02fcfb5f ShaderCompileWorker-RenderCore.dll!CompileShader() []
+0x00007ffa02fd035f ShaderCompileWorker-RenderCore.dll!CompileShaderPipeline() []
+0x00007ff79f460233 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff79f45b018 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff79f458053 ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff79f4582f8 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff79f464aeb ShaderCompileWorker.exe!wmain() []
+0x00007ff79f465f6c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+Internal Error!
+	WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FVectorFieldVisualizationVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'FVectorFieldVisualizationVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\DepthOnlyVertexShader.usf(0): Shader TDepthOnlyVS<false>, Permutation 0, VF FLandscapeTileVertexFactory:
+	Exception encountered in platform compiler: Exception: EXCEPTION_ACCESS_VIOLATION, address=0x00007ffa081b4d5b
+
+Exception Callstack:
+0x00007ffa081b4d5b ShaderCompileWorker-Core.dll!mi_free() []
+0x00007ffa07bc530e ShaderCompileWorker-Core.dll!FMemory::Free() []
+0x00007ffa059c26a2 ShaderCompileWorker-ShaderCompilerCommon.dll!DestructItems<CrossCompiler::FHlslToken,int>() []
+0x00007ffa059c26a2 ShaderCompileWorker-ShaderCompilerCommon.dll!DestructItems<CrossCompiler::FHlslToken,int>() []
+0x00007ffa059fbdfb ShaderCompileWorker-ShaderCompilerCommon.dll!CrossCompiler::Parser::Parse() []
+0x00007ffa05a12c9f ShaderCompileWorker-ShaderCompilerCommon.dll!RemoveUnusedOutputs() []
+0x00007ffa076f68c4 ShaderCompileWorker-ShaderFormatD3D.dll!CompileD3DShader() []
+0x00007ffa02fe5691 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::InvokeCompile() []
+0x00007ffa02fcfec4 ShaderCompileWorker-RenderCore.dll!FInternalShaderCompilerFunctions::CompileShaderInternal() []
+0x00007ffa02fcfb5f ShaderCompileWorker-RenderCore.dll!CompileShader() []
+0x00007ffa02fd035f ShaderCompileWorker-RenderCore.dll!CompileShaderPipeline() []
+0x00007ff79f460233 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff79f45b018 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff79f458053 ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff79f4582f8 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff79f464aeb ShaderCompileWorker.exe!wmain() []
+0x00007ff79f465f6c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\BasePassPixelShader.usf(0): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 0, VF FNaniteVertexFactory:
+	Exception encountered in platform compiler: Exception code: 0x00000001, address=0x00007ffaf16aa80a
+
+Exception Callstack:
+0x00007ffaf16aa80a KERNELBASE.dll!UnknownFunction []
+0x00007ffa0891a53e UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa08919bee UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa08911e1e UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa08918544 UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa3484ba61 UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa3482c558 UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa3482c1cd UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa396cab23 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa396b2e97 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa396b3389 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa396f0da4 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa352437cd UnrealEditor-Core.dll!UnknownFunction []
+0x00007ffa3523c91f UnrealEditor-Core.dll!UnknownFunction []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+Internal Error!
+	WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FParticleBeamTrailVertexFactory/FVelocityPS/0:/Engine/Private/VelocityShader.usf|MainPixelShader VF 'FParticleBeamTrailVertexFactory' Type 'FVelocityPS' '/Engine/Private/VelocityShader.usf' Entry 'MainPixelShader' Permutation 0 
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\VelocityShader.usf(0): Shader FVelocityVS, Permutation 0, VF FParticleBeamTrailVertexFactory:
+	Exception encountered in platform compiler: Exception code: 0x00000001, address=0x00007ffaf16aa80a
+
+Exception Callstack:
+0x00007ffaf16aa80a KERNELBASE.dll!UnknownFunction []
+0x00007ffa0891a53e UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa08919bee UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa08911e1e UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa08918544 UnrealEditor-ShaderFormatD3D.dll!UnknownFunction []
+0x00007ffa3484ba61 UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa3482c558 UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa3482c1cd UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa3482c9bf UnrealEditor-RenderCore.dll!UnknownFunction []
+0x00007ffa396cad07 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa396b2e97 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa396b3389 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa396f0da4 UnrealEditor-Engine.dll!UnknownFunction []
+0x00007ffa352437cd UnrealEditor-Core.dll!UnknownFunction []
+0x00007ffa3523c91f UnrealEditor-Core.dll!UnknownFunction []
+0x00007ffaf3e9e8d7 KERNEL32.DLL!UnknownFunction []
+0x00007ffaf4a8c40c ntdll.dll!UnknownFunction []
+
+
+131 Shader compiler errors compiling WorldGridMaterial for platform PCD3D_SM6:
+Shader debug info dumped to: "C:\Users\455377\OneDrive - Leeds Arts University\Module 403\ProjectWarsuit\Saved\ShaderDebugInfo\PCD3D_SM6\WorldGridMaterial_b019937a1bd5f916\Default\TGPUSkinVertexFactoryDefault\TShadowDepthVSVertexShadowDepth_VirtualShadowMap\0_db6fcc63a5c44ea7"
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(37,12): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:37:12: error: redefinition of 'DFToWS'
+	FLWCScalar DFToWS(FDFScalar In) { return DFToTileOffset(In); }
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(38,12): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:38:12: error: redefinition of 'DFFastToWS'
+	FLWCScalar DFFastToWS(FDFScalar In) { return DFFastToTileOffset(In); }
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(43,13): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:43:13: error: redefinition of 'DFToWS'
+	FLWCVector2 DFToWS(FDFVector2 In) { return DFToTileOffset(In); }
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(44,13): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:44:13: error: redefinition of 'DFFastToWS'
+	FLWCVector2 DFFastToWS(FDFVector2 In) { return DFFastToTileOffset(In); }
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(49,13): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:49:13: error: redefinition of 'DFToWS'
+	FLWCVector3 DFToWS(FDFVector3 In) { return DFToTileOffset(In); }
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(50,13): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:50:13: error: redefinition of 'DFFastToWS'
+	FLWCVector3 DFFastToWS(FDFVector3 In) { return DFFastToTileOffset(In); }
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(55,13): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:55:13: error: redefinition of 'DFToWS'
+	FLWCVector4 DFToWS(FDFVector4 In) { return DFToTileOffset(In); }
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(56,13): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:56:13: error: redefinition of 'DFFastToWS'
+	FLWCVector4 DFFastToWS(FDFVector4 In) { return DFFastToTileOffset(In); }
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(61,12): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:61:12: error: redefinition of 'DFToWS'
+	FLWCMatrix DFToWS(FDFMatrix In) { return DFToTileOffset(In); }
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(62,12): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:62:12: error: redefinition of 'DFFastToWS'
+	FLWCMatrix DFFastToWS(FDFMatrix In) { return DFFastToTileOffset(In); }
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(67,19): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:67:19: error: redefinition of 'DFToWS'
+	FLWCInverseMatrix DFToWS(FDFInverseMatrix In) { return DFToTileOffset(In); }
+	                  ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(68,19): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:68:19: error: redefinition of 'DFFastToWS'
+	FLWCInverseMatrix DFFastToWS(FDFInverseMatrix In) { return DFFastToTileOffset(In); }
+	                  ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(289,7): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:289:7: error: redefinition of 'DFToWS'
+	float DFToWS( float In) { return In; }
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(290,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:290:8: error: redefinition of 'DFToWS'
+	float2 DFToWS( float2 In) { return In; }
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(291,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:291:8: error: redefinition of 'DFToWS'
+	float3 DFToWS( float3 In) { return In; }
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\WorldSpaceMath.ush(292,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Private/WorldSpaceMath.ush:292:8: error: redefinition of 'DFToWS'
+	float4 DFToWS( float4 In) { return In; }
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4392,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:4392:8: error: redefinition of 'FSubstrateData'
+	struct FSubstrateData
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4409,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:4409:8: error: redefinition of 'FMaterialParticleParameters'
+	struct FMaterialParticleParameters
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4528,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:4528:8: error: redefinition of 'FMaterialAttributes'
+	struct FMaterialAttributes
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4652,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:4652:8: error: redefinition of 'FMaterialLWCData'
+	struct FMaterialLWCData
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4689,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:4689:8: error: redefinition of 'FMaterialPixelParameters'
+	struct FMaterialPixelParameters
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4936,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:4936:8: error: redefinition of 'FMaterialVertexParameters'
+	struct FMaterialVertexParameters
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5011,27): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5011:27: error: redefinition of 'MakeInitializedMaterialVertexParameters'
+	FMaterialVertexParameters MakeInitializedMaterialVertexParameters()
+	                          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5040,21): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5040:21: error: redefinition of 'GetPrimitiveData'
+	FPrimitiveSceneData GetPrimitiveData(FMaterialVertexParameters Parameters)
+	                    ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5049,21): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5049:21: error: redefinition of 'GetPrimitiveData'
+	FPrimitiveSceneData GetPrimitiveData(FMaterialPixelParameters Parameters)
+	                    ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5114,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5114:18: error: redefinition of 'GetWorldToInstanceDF'
+	FDFInverseMatrix GetWorldToInstanceDF(FMaterialVertexParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5124,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5124:18: error: redefinition of 'GetWorldToInstanceDF'
+	FDFInverseMatrix GetWorldToInstanceDF(FMaterialPixelParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5134,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5134:11: error: redefinition of 'GetInstanceToWorldDF'
+	FDFMatrix GetInstanceToWorldDF(FMaterialVertexParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5144,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5144:11: error: redefinition of 'GetPrevInstanceToWorldDF'
+	FDFMatrix GetPrevInstanceToWorldDF(FMaterialVertexParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5155,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5155:11: error: redefinition of 'GetInstanceToWorldDF'
+	FDFMatrix GetInstanceToWorldDF(FMaterialPixelParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5165,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5165:11: error: redefinition of 'GetPrevInstanceToWorldDF'
+	FDFMatrix GetPrevInstanceToWorldDF(FMaterialPixelParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5861,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5861:11: error: redefinition of 'GetLocalToWorldDF'
+	FDFMatrix GetLocalToWorldDF(FMaterialVertexParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5877,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5877:11: error: redefinition of 'GetLocalToWorldDF'
+	FDFMatrix GetLocalToWorldDF(FMaterialPixelParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5891,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5891:11: error: redefinition of 'GetPrevLocalToWorldDF'
+	FDFMatrix GetPrevLocalToWorldDF(FMaterialVertexParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5905,11): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5905:11: error: redefinition of 'GetPrevLocalToWorldDF'
+	FDFMatrix GetPrevLocalToWorldDF(FMaterialPixelParameters Parameters)
+	          ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5916,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5916:18: error: redefinition of 'GetWorldToLocalDF'
+	FDFInverseMatrix GetWorldToLocalDF(FMaterialVertexParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5926,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5926:18: error: redefinition of 'GetWorldToLocalDF'
+	FDFInverseMatrix GetWorldToLocalDF(FMaterialPixelParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5936,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5936:18: error: redefinition of 'GetPrevWorldToLocalDF'
+	FDFInverseMatrix GetPrevWorldToLocalDF(FMaterialVertexParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5946,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:5946:18: error: redefinition of 'GetPrevWorldToLocalDF'
+	FDFInverseMatrix GetPrevWorldToLocalDF(FMaterialPixelParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(6077,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:6077:18: error: redefinition of 'MakeMaterialLWCData'
+	FMaterialLWCData MakeMaterialLWCData(FMaterialVertexParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(6148,18): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:6148:18: error: redefinition of 'MakeMaterialLWCData'
+	FMaterialLWCData MakeMaterialLWCData(FMaterialPixelParameters Parameters)
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8160,6): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8160:6: error: redefinition of 'IsFirstPerson_FromFlags'
+	bool IsFirstPerson_FromFlags(uint Flags)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8169,6): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8169:6: error: redefinition of 'IsFirstPerson'
+	bool IsFirstPerson(FMaterialVertexParameters Parameters)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8174,6): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8174:6: error: redefinition of 'IsFirstPerson'
+	bool IsFirstPerson(FMaterialPixelParameters Parameters)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8179,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8179:8: error: redefinition of 'TransformToFirstPerson'
+	float3 TransformToFirstPerson(float3 TranslatedWorldPosition, float FirstPersonInterpolationAlpha)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8201,7): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8201:7: error: redefinition of 'GetMaterialFirstPersonInterpolationAlpha'
+	float GetMaterialFirstPersonInterpolationAlpha(FMaterialVertexParameters Parameters)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8219,6): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8219:6: error: redefinition of 'ApplyMaterialFirstPersonTransform'
+	void ApplyMaterialFirstPersonTransform(FMaterialVertexParameters Parameters, inout float3 WorldPositionWithWPO)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8245,6): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8245:6: error: redefinition of 'ShouldEnableWorldPositionOffset'
+	bool ShouldEnableWorldPositionOffset(FMaterialVertexParameters Parameters)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8261,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8261:8: error: redefinition of 'ClampWorldPositionOffset'
+	float3 ClampWorldPositionOffset(FMaterialVertexParameters Parameters, float3 InOffset)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8272,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8272:8: error: redefinition of 'GetMaterialWorldPositionOffsetRaw'
+	float3 GetMaterialWorldPositionOffsetRaw(FMaterialVertexParameters Parameters)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8280,8): Shader TShadowDepthVSVertexShadowDepth_VirtualShadowMap, Permutation 0, VF TGPUSkinVertexFactoryDefault:
+	/Engine/Generated/Material.ush:8280:8: error: redefinition of 'GetMaterialWorldPositionOffset'
+	float3 GetMaterialWorldPositionOffset(FMaterialVertexParameters Parameters)
+	       ^
+
+Shader debug info dumped to: "C:\Users\455377\OneDrive - Leeds Arts University\Module 403\ProjectWarsuit\Saved\ShaderDebugInfo\PCD3D_SM6\WorldGridMaterial_b019937a1bd5f916\Default\FLandscapeXYOffsetVertexFactory\TBasePassPSFNoLightMapPolicy\0_db6fcc63a5c44ea7"
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(25,13): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:25:13: error: redefinition of 'Material_PreshaderBuffer'
+	         float4    Material_PreshaderBuffer[1] ;
+	                   ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(26,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:26:11: error: redefinition of 'BindlessSRV_Material_Texture2D_0'
+	         uint    BindlessSRV_Material_Texture2D_0 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(27,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:27:11: error: redefinition of 'Material_Padding20'
+	         uint    Material_Padding20 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(28,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:28:11: error: redefinition of 'BindlessSampler_Material_Texture2D_0Sampler'
+	         uint    BindlessSampler_Material_Texture2D_0Sampler ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(29,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:29:11: error: redefinition of 'Material_Padding28'
+	         uint    Material_Padding28 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(30,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:30:11: error: redefinition of 'BindlessSRV_Material_Texture2D_1'
+	         uint    BindlessSRV_Material_Texture2D_1 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(31,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:31:11: error: redefinition of 'Material_Padding36'
+	         uint    Material_Padding36 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(32,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:32:11: error: redefinition of 'BindlessSampler_Material_Texture2D_1Sampler'
+	         uint    BindlessSampler_Material_Texture2D_1Sampler ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(33,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:33:11: error: redefinition of 'Material_Padding44'
+	         uint    Material_Padding44 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(34,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:34:11: error: redefinition of 'BindlessSampler_Material_Wrap_WorldGroupSettings'
+	         uint    BindlessSampler_Material_Wrap_WorldGroupSettings ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(35,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:35:11: error: redefinition of 'Material_Padding52'
+	         uint    Material_Padding52 ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(36,11): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:36:11: error: redefinition of 'BindlessSampler_Material_Clamp_WorldGroupSettings'
+	         uint    BindlessSampler_Material_Clamp_WorldGroupSettings ;
+	                 ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(38,12): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:38:12: error: redefinition of 'Material_Texture2D_0'
+	Texture2D  Material_Texture2D_0;
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(39,15): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:39:15: error: redefinition of 'Material_Texture2D_0Sampler'
+	SamplerState  Material_Texture2D_0Sampler;
+	              ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(40,12): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:40:12: error: redefinition of 'Material_Texture2D_1'
+	Texture2D  Material_Texture2D_1;
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(41,15): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:41:15: error: redefinition of 'Material_Texture2D_1Sampler'
+	SamplerState  Material_Texture2D_1Sampler;
+	              ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4396,16): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:4396:16: error: redefinition of 'GetInitialisedSubstrateData'
+	FSubstrateData GetInitialisedSubstrateData() { return (FSubstrateData)0; }
+	               ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4613,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:4613:8: error: redefinition of 'FPixelMaterialInputs'
+	struct FPixelMaterialInputs
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4924,26): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:4924:26: error: redefinition of 'MakeInitializedMaterialPixelParameters'
+	FMaterialPixelParameters MakeInitializedMaterialPixelParameters()
+	                         ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5370,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:5370:8: error: redefinition of 'GetScreenPosition'
+	float4 GetScreenPosition(FMaterialVertexParameters Parameters)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5375,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:5375:8: error: redefinition of 'GetScreenPosition'
+	float4 GetScreenPosition(FMaterialPixelParameters Parameters)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5390,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:5390:7: error: redefinition of 'GetPixelDepth'
+	float GetPixelDepth(FMaterialVertexParameters Parameters)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(5395,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:5395:7: error: redefinition of 'GetPixelDepth'
+	float GetPixelDepth(FMaterialPixelParameters Parameters)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(6877,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:6877:8: error: redefinition of 'ReflectionAboutCustomWorldNormal'
+	float3 ReflectionAboutCustomWorldNormal(FMaterialPixelParameters Parameters, float3 WorldNormal, bool bNormalizeInputNormal)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7939,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:7939:8: error: redefinition of 'GetMaterialNormalRaw'
+	float3 GetMaterialNormalRaw(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7944,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:7944:8: error: redefinition of 'GetMaterialNormal'
+	float3 GetMaterialNormal(FMaterialPixelParameters Parameters, FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7976,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:7976:8: error: redefinition of 'GetMaterialEmissiveRaw'
+	float3 GetMaterialEmissiveRaw(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7981,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:7981:8: error: redefinition of 'GetMaterialEmissive'
+	float3 GetMaterialEmissive(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7999,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:7999:6: error: redefinition of 'GetMaterialShadingModel'
+	uint GetMaterialShadingModel(FPixelMaterialInputs PixelMaterialInputs)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8004,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8004:8: error: redefinition of 'GetMaterialBaseColorRaw'
+	float3 GetMaterialBaseColorRaw(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8009,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8009:8: error: redefinition of 'GetMaterialBaseColor'
+	float3 GetMaterialBaseColor(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8014,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8014:7: error: redefinition of 'GetMaterialMetallicRaw'
+	float GetMaterialMetallicRaw(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8019,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8019:7: error: redefinition of 'GetMaterialMetallic'
+	float GetMaterialMetallic(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8024,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8024:7: error: redefinition of 'GetMaterialSpecularRaw'
+	float GetMaterialSpecularRaw(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8029,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8029:7: error: redefinition of 'GetMaterialSpecular'
+	float GetMaterialSpecular(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8034,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8034:7: error: redefinition of 'GetMaterialRoughnessRaw'
+	float GetMaterialRoughnessRaw(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8039,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8039:7: error: redefinition of 'GetMaterialRoughness'
+	float GetMaterialRoughness(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8056,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8056:7: error: redefinition of 'GetMaterialAnisotropyRaw'
+	float GetMaterialAnisotropyRaw(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8061,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8061:7: error: redefinition of 'GetMaterialAnisotropy'
+	float GetMaterialAnisotropy(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8106,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8106:7: error: redefinition of 'GetMaterialOpacityMaskClipValue'
+	float GetMaterialOpacityMaskClipValue()
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8125,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8125:7: error: redefinition of 'GetMaterialOpacityRaw'
+	float GetMaterialOpacityRaw(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8147,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8147:7: error: redefinition of 'GetMaterialOpacity'
+	float GetMaterialOpacity(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8336,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8336:7: error: redefinition of 'GetMaterialAmbientOcclusionRaw'
+	float GetMaterialAmbientOcclusionRaw(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8350,7): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8350:7: error: redefinition of 'GetMaterialAmbientOcclusion'
+	float GetMaterialAmbientOcclusion(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8437,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8437:8: error: redefinition of 'TransformTangentNormalToWorld'
+	float3 TransformTangentNormalToWorld(float3x3 TangentToWorld, float3 TangentNormal)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8517,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8517:6: error: redefinition of 'CalcPixelMaterialInputs'
+	void CalcPixelMaterialInputs(in out FMaterialPixelParameters Parameters, in out FPixelMaterialInputs PixelMaterialInputs)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8641,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:8641:6: error: redefinition of 'ClipLODTransition'
+	void ClipLODTransition(float2 SvPosition, float DitherFactor)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(3718,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:3718:6: error: redefinition of 'ClipLODTransition'
+	void ClipLODTransition(FMaterialPixelParameters Parameters, float DitherFactor)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(3747,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:3747:6: error: redefinition of 'ClipLODTransition'
+	void ClipLODTransition(FMaterialPixelParameters Parameters)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(3750,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:3750:6: error: redefinition of 'ClipLODTransition'
+	void ClipLODTransition(float2 SvPosition)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(3781,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:3781:6: error: redefinition of 'GetMaterialCoverageAndClipping'
+	void GetMaterialCoverageAndClipping(FMaterialPixelParameters Parameters, FPixelMaterialInputs PixelMaterialInputs)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(3896,6): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:3896:6: error: redefinition of 'CalcMaterialParametersEx'
+	void CalcMaterialParametersEx(
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4142,8): Shader TBasePassPSFNoLightMapPolicy, Permutation 0, VF FLandscapeXYOffsetVertexFactory:
+	/Engine/Generated/Material.ush:4142:8: error: redefinition of 'GetWorldBentNormalZero'
+	float3 GetWorldBentNormalZero(in FMaterialPixelParameters MaterialParameters)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(3822,6): Shader FVelocityPS, Permutation 0, VF FParticleBeamTrailVertexFactory:
+	/Engine/Generated/Material.ush:3822:6: error: redefinition of 'GetMaterialClippingVelocity'
+	void GetMaterialClippingVelocity(FMaterialPixelParameters Parameters, FPixelMaterialInputs PixelMaterialInputs, bool bIsThinTranslucent, float MaterialOpacity)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(4011,10): Shader FVelocityPS, Permutation 0, VF FParticleBeamTrailVertexFactory:
+	/Engine/Generated/Material.ush:4011:10: error: redefinition of 'AssembleTangentToWorld'
+	float3x3 AssembleTangentToWorld( float3 TangentToWorld0, float4 TangentToWorld2 )
+	         ^
+
+Internal Error!
+	WorldGridMaterial_b019937a1bd5f916/Default/VelocityPipeline/FParticleBeamTrailVertexFactory/FVelocityVS/0:/Engine/Private/VelocityShader.usf|MainVertexShader VF 'FParticleBeamTrailVertexFactory' Type 'FVelocityVS' '/Engine/Private/VelocityShader.usf' Entry 'MainVertexShader' Permutation 0 
+
+Shader debug info dumped to: "C:\Users\455377\OneDrive - Leeds Arts University\Module 403\ProjectWarsuit\Saved\ShaderDebugInfo\PCD3D_SM6\WorldGridMaterial_b019937a1bd5f916\Default\FNaniteVertexFactory\TBasePassCSFNoLightMapPolicySkylight\1_db6fcc63a5c44ea7"
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7796,12): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7796:12: error: redefinition of 'ConstructConstantFloatDeriv'
+	FloatDeriv ConstructConstantFloatDeriv(float Value)
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7805,13): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7805:13: error: redefinition of 'Convert_FloatDeriv2_FloatDeriv'
+	FloatDeriv2 Convert_FloatDeriv2_FloatDeriv(FloatDeriv Src)
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7814,12): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7814:12: error: redefinition of 'SubDeriv'
+	FloatDeriv SubDeriv(FloatDeriv A, FloatDeriv B)
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7823,13): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7823:13: error: redefinition of 'MulDeriv'
+	FloatDeriv2 MulDeriv(FloatDeriv2 A, FloatDeriv2 B)
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7832,12): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7832:12: error: redefinition of 'DivDeriv'
+	FloatDeriv DivDeriv(FloatDeriv A, FloatDeriv B)
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7844,13): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7844:13: error: redefinition of 'DivDeriv'
+	FloatDeriv2 DivDeriv(FloatDeriv2 A, FloatDeriv2 B)
+	            ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(7856,12): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:7856:12: error: redefinition of 'SaturateDeriv'
+	FloatDeriv SaturateDeriv(FloatDeriv A)
+	           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8400,6): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8400:6: error: redefinition of 'GetMaterialCustomizedUVs'
+	void GetMaterialCustomizedUVs(FMaterialVertexParameters Parameters, inout float2 OutTexCoords[1])
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8407,6): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8407:6: error: redefinition of 'GetCustomInterpolators'
+	void GetCustomInterpolators(FMaterialVertexParameters Parameters, inout float2 OutTexCoords[1])
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8646,6): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8646:6: error: redefinition of 'CalcPixelMaterialInputsAnalyticDerivatives'
+	void CalcPixelMaterialInputsAnalyticDerivatives(in out FMaterialPixelParameters Parameters, in out FPixelMaterialInputs PixelMaterialInputs)
+	     ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8772,6): Shader TBasePassCSFNoLightMapPolicySkylight, Permutation 1, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8772:6: error: redefinition of 'ClipLODTransition'
+	void ClipLODTransition(float2 SvPosition, float DitherFactor)
+	     ^
+
+Shader debug info dumped to: "C:\Users\455377\OneDrive - Leeds Arts University\Module 403\ProjectWarsuit\Saved\ShaderDebugInfo\PCD3D_SM6\WorldGridMaterial_b019937a1bd5f916\Default\FNaniteVertexFactory\TMaterialCHSFNoLightMapPolicy\0_db6fcc63a5c44ea7"
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(39,30): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:39:30: error: redefinition of 'GetBindlessResourceMaterial_Texture2D_0'
+	SafeTypeMaterial_Texture2D_0 GetBindlessResourceMaterial_Texture2D_0 () { return  ResourceDescriptorHeap[NonUniformResourceIndex(   BindlessSRV_Material_Texture2D_0  )]; }
+	                             ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(40,44): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:40:44: error: redefinition of 'Material_Texture2D_0'
+	static const SafeTypeMaterial_Texture2D_0  Material_Texture2D_0 = GetBindlessResourceMaterial_Texture2D_0 ();
+	                                           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(41,14): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:41:14: error: redefinition of 'GetBindlessSamplerMaterial_Texture2D_0Sampler'
+	SamplerState GetBindlessSamplerMaterial_Texture2D_0Sampler () { return  SamplerDescriptorHeap[NonUniformResourceIndex(   BindlessSampler_Material_Texture2D_0Sampler  )]; }
+	             ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(42,28): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:42:28: error: redefinition of 'Material_Texture2D_0Sampler'
+	static const SamplerState  Material_Texture2D_0Sampler = GetBindlessSamplerMaterial_Texture2D_0Sampler ();
+	                           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(44,30): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:44:30: error: redefinition of 'GetBindlessResourceMaterial_Texture2D_1'
+	SafeTypeMaterial_Texture2D_1 GetBindlessResourceMaterial_Texture2D_1 () { return  ResourceDescriptorHeap[NonUniformResourceIndex(   BindlessSRV_Material_Texture2D_1  )]; }
+	                             ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(45,44): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:45:44: error: redefinition of 'Material_Texture2D_1'
+	static const SafeTypeMaterial_Texture2D_1  Material_Texture2D_1 = GetBindlessResourceMaterial_Texture2D_1 ();
+	                                           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(46,14): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:46:14: error: redefinition of 'GetBindlessSamplerMaterial_Texture2D_1Sampler'
+	SamplerState GetBindlessSamplerMaterial_Texture2D_1Sampler () { return  SamplerDescriptorHeap[NonUniformResourceIndex(   BindlessSampler_Material_Texture2D_1Sampler  )]; }
+	             ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Generated\UniformBuffers\Material.ush(47,28): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/UniformBuffers/Material.ush:47:28: error: redefinition of 'Material_Texture2D_1Sampler'
+	static const SamplerState  Material_Texture2D_1Sampler = GetBindlessSamplerMaterial_Texture2D_1Sampler ();
+	                           ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8309,8): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8309:8: error: redefinition of 'GetMaterialSubsurfaceDataRaw'
+	float4 GetMaterialSubsurfaceDataRaw(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8314,8): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8314:8: error: redefinition of 'GetMaterialSubsurfaceData'
+	float4 GetMaterialSubsurfaceData(FPixelMaterialInputs PixelMaterialInputs)
+	       ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8324,7): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8324:7: error: redefinition of 'GetMaterialCustomData0'
+	float GetMaterialCustomData0(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8329,7): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8329:7: error: redefinition of 'GetMaterialCustomData1'
+	float GetMaterialCustomData1(FPixelMaterialInputs PixelMaterialInputs)
+	      ^
+
+C:\Program Files\Epic Games\5.6\Engine\Shaders\Private\MaterialTemplate.ush(8772,7): Shader TMaterialCHSFNoLightMapPolicy, Permutation 0, VF FNaniteVertexFactory:
+	/Engine/Generated/Material.ush:8772:7: error: redefinition of 'GetFloatFacingSign'
+	float GetFloatFacingSign(bool bIsFrontFace)
+	      ^
+
+appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\ShaderCompiler\ShaderCompiler.cpp] [Line: 2188] 
+
+
+
+
+Windows GetLastError: The operation completed successfully. (0)

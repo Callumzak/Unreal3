@@ -1,0 +1,31 @@
+Stats thread started at 0.239695
+Metadata set : systemresolution.resx="1280"
+Metadata set : systemresolution.resy="720"
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9A7FEEE041F7750164BAC9A183C1BB37
+         Session CrashGUID >====================================================
+No local boot hotfix file found at: [../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+Pre-Initializing Audio Device Manager...
+AudioInfo: 'OPUS' Registered
+Lib vorbis DLL was dynamically loaded.
+AudioInfo: 'OGG' Registered
+AudioInfo: 'ADPCM' Registered
+AudioInfo: 'PCM' Registered
+AudioInfo: 'BINKA' Registered
+AudioInfo: 'RADA' Registered
+Audio Device Manager Pre-Initialized
+Loading IOS ini files took 0.03 seconds
+Looking for build plugins target receipt
+Unable to find target receipt in path: ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Binaries/Win64/*.target
+Loading Mac ini files took 0.03 seconds
+Loading Android ini files took 0.03 seconds
+Loading VulkanPC ini files took 0.04 seconds
+Loading Unix ini files took 0.04 seconds
+Loading Windows ini files took 0.04 seconds
+Loading TVOS ini files took 0.04 seconds
+Loading VisionOS ini files took 0.04 seconds
+Loading Linux ini files took 0.05 seconds
+Loading LinuxArm64 ini files took 0.05 seconds
+Asset registry cache read as 70.1 MiB from ../../../../../../Users/455377/OneDrive - Leeds Arts University/Module 403/ProjectWarsuit/Intermediate/CachedAssetRegistry_0.bin.
+Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
